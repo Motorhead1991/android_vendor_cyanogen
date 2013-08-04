@@ -1,10 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cyanogen_apache.mk \
-    $(LOCAL_DIR)/geim.mk \
-    $(LOCAL_DIR)/cyanogen_roamer.mk \
-    $(LOCAL_DIR)/cyanogen_viper.mk \
     $(LOCAL_DIR)/cyanogen_ace.mk \
     $(LOCAL_DIR)/cyanogen_anzu.mk \
+    $(LOCAL_DIR)/cyanogen_apache.mk \
     $(LOCAL_DIR)/cyanogen_blade.mk \
     $(LOCAL_DIR)/cyanogen_bravo.mk \
     $(LOCAL_DIR)/cyanogen_bravoc.mk \
@@ -53,6 +50,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_p990.mk \
     $(LOCAL_DIR)/cyanogen_p999.mk \
     $(LOCAL_DIR)/cyanogen_passion.mk \
+    $(LOCAL_DIR)/cyanogen_roamer.mk \
     $(LOCAL_DIR)/cyanogen_robyn.mk \
     $(LOCAL_DIR)/cyanogen_saga.mk \
     $(LOCAL_DIR)/cyanogen_satsuma.mk \
@@ -77,6 +75,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_v9.mk \
     $(LOCAL_DIR)/cyanogen_vega.mk \
     $(LOCAL_DIR)/cyanogen_vibrantmtd.mk \
+    $(LOCAL_DIR)/cyanogen_viper.mk \
     $(LOCAL_DIR)/cyanogen_vision.mk \
     $(LOCAL_DIR)/cyanogen_vivo.mk \
     $(LOCAL_DIR)/cyanogen_vivow.mk \
@@ -84,4 +83,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_zeppelin.mk \
     $(LOCAL_DIR)/cyanogen_zero.mk \
     $(LOCAL_DIR)/cyanogen_zeus.mk \
-    $(LOCAL_DIR)/cyanogen_zeusc.mk
+    $(LOCAL_DIR)/cyanogen_zeusc.mk \
+    $(LOCAL_DIR)/geim.mk 
