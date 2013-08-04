@@ -1,4 +1,8 @@
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/cyanogen_apache.mk \
+    $(LOCAL_DIR)/geim.mk \
+    $(LOCAL_DIR)/cyanogen_roamer.mk \
+    $(LOCAL_DIR)/cyanogen_viper.mk \
     $(LOCAL_DIR)/cyanogen_ace.mk \
     $(LOCAL_DIR)/cyanogen_anzu.mk \
     $(LOCAL_DIR)/cyanogen_blade.mk \
